@@ -18,7 +18,7 @@ const Sdata = [
   },
   {
     imgsrc: software,
-    title: "Software development",
+    title: "Software development",  
     li:"https://en.wikipedia.org/wiki/Web_development",
   },
   {
